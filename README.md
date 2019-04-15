@@ -3,4 +3,4 @@ Sometimes we get tired, sometimes we still code at 2 o'clock in the morning, wit
 
 # Copyrights ©2019 by XII, Anna Ganieva and her friend from musical college.
 
-!()[srubs.gif]
+![Inspired by](srubs.gif)
