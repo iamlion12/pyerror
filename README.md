@@ -6,6 +6,6 @@ Sometimes we get tired, sometimes we still code at 2 am, but with this library y
 * Pydub
 * ffmpeg
 
-# Copyrights ©2019 by XII, Anna Ganieva and her friend from musical college.
+# Copyrights ©2019 by @iamlion12, Anna Ganieva and her friend from musical college.
 
 ![Inspired by](srubs.gif)
